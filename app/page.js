@@ -1,7 +1,7 @@
 import React from 'react'
 
 const page = () => {
-  console.log("Hello")
+  console.log("testing")
   return (
     <div>page</div>
     
